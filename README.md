@@ -27,9 +27,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=light" />
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,linux,,mongodb,mysql,nodejs,postman,py,react&perline=8&theme=light" />
   </a>
-</p>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
