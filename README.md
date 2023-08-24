@@ -49,6 +49,15 @@
 
 
 - Backend : <br />
+
+![docker](https://img.shields.io/badge/docker-E8E8E8?style=for-the-badge&logo=docker)
+![firebase](https://img.shields.io/badge/firebase-E8E8E8?style=for-the-badge&logo=firebase)
+![heroku](https://img.shields.io/badge/heroku-E8E8E8?style=for-the-badge&logo=heroku)
+![mongodb](https://img.shields.io/badge/mongodb-E8E8E8?style=for-the-badge&logo=mongodb)
+![mysql](https://img.shields.io/badge/mysql-030303?style=for-the-badge&logo=mysql)
+![postgresql](https://img.shields.io/badge/postgresql-E8E8E8?style=for-the-badge&logo=postgresql)
+![nodedotjs](https://img.shields.io/badge/nodedotjs-E8E8E8?style=for-the-badge&logo=nodedotjs)
+
 - OS & IDE & Tools : <br />  
 - APIs : <br />
 
