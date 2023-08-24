@@ -10,6 +10,10 @@
 </div>
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WQx7o8NJL2evu19Cy8/giphy.gif" width="600"/>
+</div>
+
 
 
 <!--h1 without bottom border-->
@@ -55,5 +59,4 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
