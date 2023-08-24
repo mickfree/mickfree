@@ -39,9 +39,12 @@
 ![tensorflow](https://img.shields.io/badge/tensorflow-E8E8E8?style=for-the-badge&logo=tensorflow)
 
 - Frontend : <br />
-![Java](https://img.shields.io/badge/Java-0072EF?style=for-the-badge&logo=Eagle)
-![Java](https://img.shields.io/badge/Java-0072EF?style=for-the-badge&logo=Eagle) 
-![Java](https://img.shields.io/badge/Java-0072EF?style=for-the-badge&logo=Eagle) 
+
+![angular](https://img.shields.io/badge/angular-E8E8E8?style=for-the-badge&logo=angular)
+![bootstrap](https://img.shields.io/badge/bootstrap-E8E8E8?style=for-the-badge&logo=bootstrap)
+![html5](https://img.shields.io/badge/html5-E8E8E8?style=for-the-badge&logo=html5)
+![wordpress](https://img.shields.io/badge/wordpress-E8E8E8?style=for-the-badge&logo=wordpress)
+
 
 
 - Backend : <br />
