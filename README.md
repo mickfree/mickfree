@@ -32,6 +32,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP)
 
 - Machine Learning / Deep Learning frameworks : <br />
+
+![jupyters](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter)
+
 - Frontend : <br />
 - Backend : <br />
 - OS & IDE & Tools : <br />  
