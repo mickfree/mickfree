@@ -60,13 +60,13 @@
 
 - OS & IDE & Tools : <br />
   
-![git](https://img.shields.io/badge/git-E8E8E8?style=for-the-badge&logo=git)
-![linux](https://img.shields.io/badge/linux-E8E8E8?style=for-the-badge&logo=linux)
-![postman](https://img.shields.io/badge/postman-E8E8E8?style=for-the-badge&logo=postman)
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-E8E8E8?style=for-the-badge&logo=visualstudiocode)
-![eclipseide](https://img.shields.io/badge/eclipseide-E8E8E8?style=for-the-badge&logo=eclipseide)
-![intellijidea](https://img.shields.io/badge/intellijidea-E8E8E8?style=for-the-badge&logo=intellijidea)
-![centos](https://img.shields.io/badge/centos-E8E8E8?style=for-the-badge&logo=centos)
+![git](https://img.shields.io/badge/git-41454A?style=for-the-badge&logo=git)
+![linux](https://img.shields.io/badge/linux-41454A?style=for-the-badge&logo=linux)
+![postman](https://img.shields.io/badge/postman-41454A?style=for-the-badge&logo=postman)
+![visualstudiocode](https://img.shields.io/badge/visualstudiocode-41454A?style=for-the-badge&logo=visualstudiocode)
+![eclipseide](https://img.shields.io/badge/eclipseide-41454A?style=for-the-badge&logo=eclipseide)
+![intellijidea](https://img.shields.io/badge/intellijidea-41454A?style=for-the-badge&logo=intellijidea)
+![centos](https://img.shields.io/badge/centos-41454A?style=for-the-badge&logo=centos)
 
 - APIs : <br />
 
