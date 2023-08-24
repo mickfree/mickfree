@@ -24,8 +24,13 @@
   </ul>
 </div>
 <!--tech stack icons-->
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
+[![My Skills]()](https://skillicons.dev)
+[![My Skills]()](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+  </a>
+</p>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
