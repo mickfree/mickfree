@@ -8,6 +8,7 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Michael </h1></summary>
   </ul>
 </div>
+
 ![Uploading BqtY (1)-min (1).gif…]()
 -------------------------------------------------------------------
 <div id="header" align="center">
