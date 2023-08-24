@@ -24,12 +24,7 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ableton,aws,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,linux,,mongodb,mysql,nodejs,postman,py,react&perline=14" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
