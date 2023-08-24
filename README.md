@@ -30,6 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-E8E8E8?style=for-the-badge&logo=Oracle)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E8E8E8?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-E8E8E8?style=for-the-badge&logo=Python)
+![PHP](https://img.shields.io/badge/PHP-E8E8E8?style=for-the-badge&logo=PHP)
 
 - Machine Learning / Deep Learning frameworks : <br />
 
