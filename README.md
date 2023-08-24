@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-#0A66C2?style=for-the-badge&logo=linkedin)
+[![Linkedin](https://img.shields.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin)
 -------------------------------------------------------------------
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyMzR2cTVmODN2bHhxNjFpdDhiMmFsNXZ4OGcwZ3pldndqc3hlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="600"/>
