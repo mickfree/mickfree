@@ -27,7 +27,7 @@
 
 - Programming languages : <br />
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript)
 
 - Machine Learning / Deep Learning frameworks : <br />
 - Frontend : <br />
