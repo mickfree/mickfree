@@ -29,6 +29,9 @@
 
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0072EF?style=for-the-badge&logo=JavaScript) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python) 
+![JavaScript](https://img.shields.io/badge/JavaScript-0072EF?style=for-the-badge&logo=JavaScript) 
+![JavaScript](https://img.shields.io/badge/JavaScript-0072EF?style=for-the-badge&logo=JavaScript) 
 
 
 - Machine Learning / Deep Learning frameworks : <br />
