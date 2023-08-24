@@ -26,10 +26,11 @@
 <!--tech stack -->
 
 - Programming languages : <br />
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle) <br />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript): <br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python) <br />
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP) <br />
+
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP) 
 
 - Machine Learning / Deep Learning frameworks : <br />
 
@@ -38,6 +39,11 @@
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow)
 
 - Frontend : <br />
+
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
 - Backend : <br />
 - OS & IDE & Tools : <br />  
 - APIs : <br />
