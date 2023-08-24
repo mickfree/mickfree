@@ -8,8 +8,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Michael </h1></summary>
   </ul>
 </div>
-
-
+![Uploading BqtY (1)-min (1).gif…]()
+-------------------------------------------------------------------
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyMzR2cTVmODN2bHhxNjFpdDhiMmFsNXZ4OGcwZ3pldndqc3hlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="600"/>
 </div>
