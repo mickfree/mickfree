@@ -24,13 +24,11 @@
   </ul>
 </div>
 <!--tech stack icons-->
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,linux,,mongodb,mysql,nodejs,postman,py,react&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,ableton,aws,bootstrap,css,discord,docker,figma,firebase,github,html,idea,java,js,linux,,mongodb,mysql,nodejs,postman,py,react&perline=14&theme=light" />
   </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
