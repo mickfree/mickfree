@@ -39,7 +39,7 @@
 ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow)
 
 - Frontend : <br />
-
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle) 
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
