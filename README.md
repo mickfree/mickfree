@@ -27,7 +27,7 @@
 <!--tech stack -->
 
 - Programming languages : <br />
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
+![Oracle](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
 
 - Machine Learning / Deep Learning frameworks : <br />
 - Frontend : <br />
