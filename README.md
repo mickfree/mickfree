@@ -27,7 +27,9 @@
 
 - Programming languages : <br />
 
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle) 
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Oracle)
+![JavaScript](https://img.shields.io/badge/JavaScript-0072EF?style=for-the-badge&logo=JavaScript) 
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP) 
