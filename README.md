@@ -9,11 +9,15 @@
   </ul>
 </div>
 
+<!--About-->
 ## About
 <p>I am Michael Luna.I am a third-year student at Certus Institute.I am currently studying and practicing to become a Data Scientist and my journey as a self taught programmer.. My other interests aside from Machine Learning are Backend Development and DevOps.
 </p>
 
------------------------------------------------------------------------------
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyMzR2cTVmODN2bHhxNjFpdDhiMmFsNXZ4OGcwZ3pldndqc3hlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="600"/>
 </div>
