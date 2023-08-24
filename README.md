@@ -44,6 +44,7 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-E8E8E8?style=for-the-badge&logo=bootstrap)
 ![html5](https://img.shields.io/badge/html5-E8E8E8?style=for-the-badge&logo=html5)
 ![wordpress](https://img.shields.io/badge/wordpress-E8E8E8?style=for-the-badge&logo=wordpress)
+![React](https://img.shields.io/badge/React-E8E8E8?style=for-the-badge&logo=React)
 
 
 
