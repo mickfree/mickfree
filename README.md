@@ -24,11 +24,10 @@
   </ul>
 </div>
 <!--tech stack icons-->
-[![My Skills]()](https://skillicons.dev)
-[![My Skills]()](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3&theme=light" />
   </a>
 </p>
 <!-- Connect with me -->
