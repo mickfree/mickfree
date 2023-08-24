@@ -33,9 +33,9 @@
 
 - Machine Learning / Deep Learning frameworks : <br />
 
-![jupyter](https://img.shields.io/badge/JupiterNotebook-F37626?style=for-the-badge&logo=jupyter)
+![jupyter](https://img.shields.io/badge/JupiterNotebook-F37626?style=for-the-badge&logo=Jupyter)
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
+![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow)
 
 - Frontend : <br />
 - Backend : <br />
