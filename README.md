@@ -28,35 +28,35 @@
 - Programming languages : <br />
 
 ![Java](https://img.shields.io/badge/Java-41454A?style=for-the-badge&logo=Oracle)
-![JavaScript](https://img.shields.io/badge/JavaScript-E8E8E8?style=for-the-badge&logo=JavaScript)
-![Python](https://img.shields.io/badge/Python-E8E8E8?style=for-the-badge&logo=Python)
-![PHP](https://img.shields.io/badge/PHP-E8E8E8?style=for-the-badge&logo=PHP)
+![JavaScript](https://img.shields.io/badge/JavaScript-41454A?style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/badge/Python-41454A?style=for-the-badge&logo=Python)
+![PHP](https://img.shields.io/badge/PHP-41454A?style=for-the-badge&logo=PHP)
 
 - Machine Learning / Deep Learning frameworks : <br />
 
-![jupyter](https://img.shields.io/badge/jupyter-E8E8E8?style=for-the-badge&logo=jupyter)
-![pytorch](https://img.shields.io/badge/pytorch-E8E8E8?style=for-the-badge&logo=pytorch)
-![tensorflow](https://img.shields.io/badge/tensorflow-E8E8E8?style=for-the-badge&logo=tensorflow)
+![jupyter](https://img.shields.io/badge/jupyter-41454A?style=for-the-badge&logo=jupyter)
+![pytorch](https://img.shields.io/badge/pytorch-41454A?style=for-the-badge&logo=pytorch)
+![tensorflow](https://img.shields.io/badge/tensorflow-41454A?style=for-the-badge&logo=tensorflow)
 
 - Frontend : <br />
 
-![angular](https://img.shields.io/badge/angular-E8E8E8?style=for-the-badge&logo=angular)
-![bootstrap](https://img.shields.io/badge/bootstrap-E8E8E8?style=for-the-badge&logo=bootstrap)
-![html5](https://img.shields.io/badge/html5-E8E8E8?style=for-the-badge&logo=html5)
-![wordpress](https://img.shields.io/badge/wordpress-E8E8E8?style=for-the-badge&logo=wordpress)
-![React](https://img.shields.io/badge/React-E8E8E8?style=for-the-badge&logo=React)
+![angular](https://img.shields.io/badge/angular-41454A?style=for-the-badge&logo=angular)
+![bootstrap](https://img.shields.io/badge/bootstrap-41454A?style=for-the-badge&logo=bootstrap)
+![html5](https://img.shields.io/badge/html5-41454A?style=for-the-badge&logo=html5)
+![wordpress](https://img.shields.io/badge/wordpress-41454A?style=for-the-badge&logo=wordpress)
+![React](https://img.shields.io/badge/React-41454A?style=for-the-badge&logo=React)
 
 
 
 - Backend : <br />
 
-![docker](https://img.shields.io/badge/docker-E8E8E8?style=for-the-badge&logo=docker)
-![firebase](https://img.shields.io/badge/firebase-E8E8E8?style=for-the-badge&logo=firebase)
-![heroku](https://img.shields.io/badge/heroku-E8E8E8?style=for-the-badge&logo=heroku)
-![mongodb](https://img.shields.io/badge/mongodb-E8E8E8?style=for-the-badge&logo=mongodb)
-![mysql](https://img.shields.io/badge/mysql-030303?style=for-the-badge&logo=mysql)
-![postgresql](https://img.shields.io/badge/postgresql-E8E8E8?style=for-the-badge&logo=postgresql)
-![nodedotjs](https://img.shields.io/badge/nodedotjs-E8E8E8?style=for-the-badge&logo=nodedotjs)
+![docker](https://img.shields.io/badge/docker-41454A?style=for-the-badge&logo=docker)
+![firebase](https://img.shields.io/badge/firebase-41454A?style=for-the-badge&logo=firebase)
+![heroku](https://img.shields.io/badge/heroku-41454A?style=for-the-badge&logo=heroku)
+![mongodb](https://img.shields.io/badge/mongodb-41454A?style=for-the-badge&logo=mongodb)
+![mysql](https://img.shields.io/badge/mysql-41454A?style=for-the-badge&logo=mysql)
+![postgresql](https://img.shields.io/badge/postgresql-41454A?style=for-the-badge&logo=postgresql)
+![nodedotjs](https://img.shields.io/badge/nodedotjs-41454A?style=for-the-badge&logo=nodedotjs)
 
 - OS & IDE & Tools : <br />  
 - APIs : <br />
