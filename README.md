@@ -24,12 +24,17 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,androidstudio,azure,bootstrap,css,docker,figma,firebase,github,html,eclipse,idea,vscode,java,py,js,spring,linux,nodejs,mongodb,mysql,nodejs,postman,react&perline=7&theme=light" />
-  </a>
-</p>
+<!--tech stack -->
+
+- Programming languages : <br />
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java)
+
+- Machine Learning / Deep Learning frameworks : <br />
+- Frontend : <br />
+- Backend : <br />
+- OS & IDE & Tools : <br />  
+- APIs : <br />
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
