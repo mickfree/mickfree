@@ -33,7 +33,7 @@
 
 - Machine Learning / Deep Learning frameworks : <br />
 
-![jupyters](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter)
+![jupyter](https://img.shields.io/badge/Jupiter Notebook-F37626?style=for-the-badge&logo=jupyter)
 
 - Frontend : <br />
 - Backend : <br />
