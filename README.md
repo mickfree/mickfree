@@ -35,8 +35,14 @@
 - Machine Learning / Deep Learning frameworks : <br />
 
 ![jupyter](https://img.shields.io/badge/jupyter-41454A?style=for-the-badge&logo=jupyter)
+![googlecolab](https://img.shields.io/badge/googlecolab-41454A?style=for-the-badge&logo=googlecolab)
 ![pytorch](https://img.shields.io/badge/pytorch-41454A?style=for-the-badge&logo=pytorch)
 ![tensorflow](https://img.shields.io/badge/tensorflow-41454A?style=for-the-badge&logo=tensorflow)
+![apachespark](https://img.shields.io/badge/apachespark-41454A?style=for-the-badge&logo=apachespark)
+![rstudio](https://img.shields.io/badge/rstudio-41454A?style=for-the-badge&logo=rstudio)
+![apachehadoop](https://img.shields.io/badge/apachehadoop-41454A?style=for-the-badge&logo=apachehadoop)
+![azuredevops](https://img.shields.io/badge/azuredevops-41454A?style=for-the-badge&logo=azuredevops)
+![microsoftsqlserver](https://img.shields.io/badge/microsoftsqlserver-41454A?style=for-the-badge&logo=microsoftsqlserver)
 
 - Frontend : <br />
 
