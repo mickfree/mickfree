@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-#0A66C2?style=for-the-badge&logo=linkedin)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)
 
 -------------------------------------------------------------------
 <div id="header" align="center">
