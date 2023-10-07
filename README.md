@@ -11,7 +11,7 @@
 
 <!--About-->
 ## About
-<p>I am Michael Luna.I am a third-year student at .I am currently studying and practicing to become a Data Scientist and my journey as a self taught programmer.. My other interests aside from Machine Learning are Backend Development and DevOps.
+<p>I am Michael Luna.I am a third-year student  .I am currently studying and practicing to become a Data Scientist and my journey as a self taught programmer.. My other interests aside from Machine Learning are Backend Development and DevOps.
 </p>
 
 
