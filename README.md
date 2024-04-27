@@ -1,84 +1,15 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-   <summary><h1 style="display: inline-block"> Greetings, I'm Michael 👋</h1></summary>
-  </ul>
-</div>
-
 <!--About-->
 ## About
-<p>I am Michael Luna.I am a third-year student
-</p>
+<p>Hi! I am Michael from Peru. I'm Software developer.</p>
+
+<p>I like programming, reading books and playing videogames!</p>
+
+<p>You will find most of my projects I make in my free time here!</p>
 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyMzR2cTVmODN2bHhxNjFpdDhiMmFsNXZ4OGcwZ3pldndqc3hlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" width="600"/>
-</div>-->
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack -->
-
-- Programming languages : <br />
-
-![Java](https://img.shields.io/badge/Java-41454A?style=for-the-badge&logo=Oracle)
-![Python](https://img.shields.io/badge/Python-41454A?style=for-the-badge&logo=Python)
-
-- Machine Learning / Deep Learning frameworks : <br />
-
-![jupyter](https://img.shields.io/badge/jupyter-41454A?style=for-the-badge&logo=jupyter)
-![googlecolab](https://img.shields.io/badge/googlecolab-41454A?style=for-the-badge&logo=googlecolab)
-![pytorch](https://img.shields.io/badge/pytorch-41454A?style=for-the-badge&logo=pytorch)
-![tensorflow](https://img.shields.io/badge/tensorflow-41454A?style=for-the-badge&logo=tensorflow)
-![apachespark](https://img.shields.io/badge/apachespark-41454A?style=for-the-badge&logo=apachespark)
-![rstudio](https://img.shields.io/badge/rstudio-41454A?style=for-the-badge&logo=rstudio)
-![apachehadoop](https://img.shields.io/badge/apachehadoop-41454A?style=for-the-badge&logo=apachehadoop)
-![azuredevops](https://img.shields.io/badge/azuredevops-41454A?style=for-the-badge&logo=azuredevops)
-![microsoftsqlserver](https://img.shields.io/badge/microsoftsqlserver-41454A?style=for-the-badge&logo=microsoftsqlserver)
-
-- Frontend : <br />
-
-![angular](https://img.shields.io/badge/angular-41454A?style=for-the-badge&logo=angular)
-![bootstrap](https://img.shields.io/badge/bootstrap-41454A?style=for-the-badge&logo=bootstrap)
-![html5](https://img.shields.io/badge/html5-41454A?style=for-the-badge&logo=html5)
-![wordpress](https://img.shields.io/badge/wordpress-41454A?style=for-the-badge&logo=wordpress)
-![React](https://img.shields.io/badge/React-41454A?style=for-the-badge&logo=React)
-
-
-
-- Backend : <br />
-
-![docker](https://img.shields.io/badge/docker-41454A?style=for-the-badge&logo=docker)
-![firebase](https://img.shields.io/badge/firebase-41454A?style=for-the-badge&logo=firebase)
-![heroku](https://img.shields.io/badge/heroku-41454A?style=for-the-badge&logo=heroku)
-![mongodb](https://img.shields.io/badge/mongodb-41454A?style=for-the-badge&logo=mongodb)
-![mysql](https://img.shields.io/badge/mysql-41454A?style=for-the-badge&logo=mysql)
-![postgresql](https://img.shields.io/badge/postgresql-41454A?style=for-the-badge&logo=postgresql)
-![nodedotjs](https://img.shields.io/badge/nodedotjs-41454A?style=for-the-badge&logo=nodedotjs)
-![Spring](https://img.shields.io/badge/Spring-41454A?style=for-the-badge&logo=Spring)
-
-- OS & IDE & Tools : <br />
-  
-![git](https://img.shields.io/badge/git-41454A?style=for-the-badge&logo=git)
-![linux](https://img.shields.io/badge/linux-41454A?style=for-the-badge&logo=linux)
-![postman](https://img.shields.io/badge/postman-41454A?style=for-the-badge&logo=postman)
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-41454A?style=for-the-badge&logo=visualstudiocode)
-![eclipseide](https://img.shields.io/badge/eclipseide-41454A?style=for-the-badge&logo=eclipseide)
-![intellijidea](https://img.shields.io/badge/intellijidea-41454A?style=for-the-badge&logo=intellijidea)
-![centos](https://img.shields.io/badge/centos-41454A?style=for-the-badge&logo=centos)
 
 
 <!-- Connect with me -->
@@ -109,6 +40,4 @@
 
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
