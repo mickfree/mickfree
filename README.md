@@ -8,9 +8,7 @@
 <p>You will find most of my projects I make in my free time here!</p>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<hr>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
