@@ -1,6 +1,6 @@
 
 <!--About-->
-## About
+## About me
 
 Hello, thanks for visiting my profile.
 - ✅ I am a software developer specializing in backend.
