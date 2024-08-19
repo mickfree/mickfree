@@ -3,6 +3,8 @@
 ## About me
 
 
+<img src="/img/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+
 Hello, thanks for visiting my profile.
 - ✅ I am a software developer specializing in backend.
 - ✅ I have about 3 year studying the most used technologies for Software design and development
