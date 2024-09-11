@@ -2,7 +2,7 @@
 ## About me
 
 
-#<img src="/img/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador">
+<!--<img src="/img/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador">-->
 
 Hello, thanks for visiting my profile.
 - ✅ I am a software developer specializing in backend.
