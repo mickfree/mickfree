@@ -12,6 +12,6 @@ I'm a software developer that is eager to learn and understand new concepts and 
 
 <hr>
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
