@@ -4,7 +4,8 @@
 I'm a software developer that is eager to learn and understand new concepts and ideas. Some technologies I enjoy working with are currently Java, Spring Boot, Python, Django, DRF, PostgreSQL, Sqlite.
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
+<div aling="center">
+  <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,java,go,ruby,dart,js"/></td>
@@ -30,9 +31,11 @@ I'm a software developer that is eager to learn and understand new concepts and 
         <td><img height="40" src="https://skillicons.dev/icons?i=arch,windows"/></td>
     </tr>
 </table>
-<br>
-
+</div>
 <hr>
+<!--- snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/grid-snake.svg" alt="snake">
+  </a>
 </div>
