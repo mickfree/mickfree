@@ -12,9 +12,6 @@ I'm a software developer that is eager to learn and understand new concepts and 
 
 <hr>
 
-<!--- snake -->
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/grid-snake.svg" alt="snake">
-  </a>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
