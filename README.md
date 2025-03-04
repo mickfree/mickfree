@@ -8,7 +8,7 @@ I'm a software developer that is eager to learn and understand new concepts and 
 [![My Skills](https://skillicons.dev/icons?i=python,java,go,dart,ruby,js,ts)](https://skillicons.dev)
 
 
-<img src="/img/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador">
+<!-- <img src="/img/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador"> -->
 
 <hr>
 
