@@ -34,5 +34,8 @@ I'm a software developer that is eager to learn and understand new concepts and 
 </div>
 <hr>
 <!--- snake -->
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  <!-- <div align="center">
+    <a href="https://1999azzar.github.io/1999AZZAR/">
+      <img src="/grid-snake.svg" alt="snake">
+    </a>
+  </div> -->
