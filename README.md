@@ -1,17 +1,14 @@
 <!--About-->
-## About me
+<h1 align="Left">About me <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+I'm a software engineer that is eager to learn and understand new concepts and ideas. Some technologies I enjoy working with are currently Java, Spring Boot, Python, Django, DRF, PostgreSQL, Sqlite.
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,go,dart,ruby,js,ts)](https://skillicons.dev)
 
 
-<img src="/img/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador">
-
-Hello, thanks for visiting my profile.
-- ✅ I am a software developer specializing in backend.
-- ✅ I have about 3 year studying the most used technologies for Software design and development
-- ✅ I have knowledge about relational databases like SQL also use Nodejs for unrelational database.
-- ✅ I have knowledge about design patterns and object-oriented software architecture.
-- ✅ I use Git for version control in my applications.
-- ✅ I am currently working as a developer in an enterprise that manufactures air-conditioning systems. I am development in various projects across different areas such as logistics, accounting, inventory.
-- ✅ I am using Java Spring Boot (microservices) for the company's enterprise system. I also use Python Django for accounting, inventory and logistics management .
+<!-- <img src="/img/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador"> -->
 
 <hr>
 
